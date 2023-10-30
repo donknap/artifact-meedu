@@ -1,0 +1,1 @@
+import{q as t}from"./index-0a2a6377.js";function s(n){return t.get("/addons/Paper/api/v1/collection/stats",n)}function a(n){return t.get("/addons/Paper/api/v2/collection/questions",n)}function r(n,e){return t.get("/addons/Paper/api/v2/question/"+n,e)}function i(n,e){return t.post(`/addons/Paper/api/v2/question/${n}/answer`,e)}export{r as n,a as o,i as q,s};

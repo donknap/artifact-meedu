@@ -1,0 +1,1 @@
+import{q as t}from"./index-0a2a6377.js";function n(a){return t.get("/addons/LearnPaths/api/v1/all",a)}function r(a){return t.get("/addons/LearnPaths/api/v1/categories",a)}function s(a){return t.get(`/addons/LearnPaths/api/v1/path/${a}`,{})}export{r as c,s as d,n as l};

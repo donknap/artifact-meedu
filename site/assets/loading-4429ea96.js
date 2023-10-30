@@ -1,0 +1,1 @@
+import{s as t,ao as e}from"./index-0a2a6377.js";const n=()=>(document.title="加载中",t.jsx("div",{style:{width:"100%",minHeight:600,textAlign:"center",boxSizing:"border-box",paddingTop:150},children:t.jsx(e,{})}));export{n as default};

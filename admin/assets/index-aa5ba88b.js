@@ -1,0 +1,1 @@
+import{j as e}from"./index-e664e6dc.js";import{I as r}from"./InfoCircleOutlined-e72834c1.js";const x=s=>e.jsxs("div",{className:"helper-text",children:[e.jsx(r,{}),e.jsx("span",{className:"ml-5",children:s.text})]});export{x as H};
